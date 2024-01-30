@@ -50,11 +50,11 @@ The following section shows the certification I have taken to gain experience in
 
 <p align="center">
 Certifications: <br/>
-<img src="https://imgur.com/4bSrFta.png" height="700%" width="70%" alt="Foundations of Cybersecurity"/>
+
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://imgur.com/rvL7mmO.png" height="70%" width="70%" alt="Play it safe: Manage Security Risks"/>
+
 <br />
 <br />
 Enter the number of passes: <br/>
