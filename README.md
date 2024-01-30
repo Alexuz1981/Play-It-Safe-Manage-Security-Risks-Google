@@ -65,7 +65,6 @@ Confirm your selection:  <br/>
 <img src="https://imgur.com/Qn0Typr.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-kvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
