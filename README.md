@@ -1,5 +1,5 @@
 # Play-It-Safe-Manage-Security-Risks-Google
-<h1>👋Hi!!!!!!     🙅 📢🛑🚧🚨🦺⚙️(Under construction)</h1>
+<h1>👋Hi!!!!!!     </h1>
 
 <h2>👨‍💻 ,💡Cybersecurity Projects:</h2> 
 
